@@ -1,2 +1,3 @@
 # zomato-landing-page
-Creating A Zomato Landing Page clone with basic Html and Css.
+This is Basic Web Development Of zomato landing page with html and css
+
